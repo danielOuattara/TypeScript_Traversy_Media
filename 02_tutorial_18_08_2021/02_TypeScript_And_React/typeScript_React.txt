@@ -1,0 +1,1 @@
+ npx create-react-app 02_tyspcript_and_react --template typescript
